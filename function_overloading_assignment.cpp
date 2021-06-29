@@ -48,6 +48,7 @@ int main()
             exit(0);
         default:
             cout<<"\n Invalid choice \n";
+            break;
 
         }
     }
